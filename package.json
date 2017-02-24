@@ -35,7 +35,7 @@
     "babel-preset-stage-1": "^6.5.0",
     "lodash": "^4.15.0",
     "react": "^15.1.0",
-    "rimraf": "^2.4.4"
+    "rimraf": "^2.6.1"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.0",
